@@ -11,6 +11,10 @@ namespace FirstCon
     {
         static void Main(string[] args)
         {
+            HelloWorld hw = new HelloWorld();
+            hw.Hello = "hello world..";
+            Console.WriteLine("Message = {0}", hw.Hello);
+            Console.ReadLine();
         }
     }
 }
