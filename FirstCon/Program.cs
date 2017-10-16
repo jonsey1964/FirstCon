@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace FirstCon
 {
     // First comments
+    // Second comment
     class Program
     {
         static void Main(string[] args)
